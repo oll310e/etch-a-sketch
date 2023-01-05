@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    background-color: aqua;
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+}
+
+.painted {
+    background-color: red;
+}
