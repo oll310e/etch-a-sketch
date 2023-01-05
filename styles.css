@@ -18,3 +18,13 @@
 .painted {
     background-color: red;
 }
+
+#button {
+    display: block;
+    margin: 20px auto;
+    width: 140px;
+    height: 27px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 3px;
+}
